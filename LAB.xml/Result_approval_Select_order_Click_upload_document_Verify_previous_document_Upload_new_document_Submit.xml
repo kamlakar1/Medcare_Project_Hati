@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Result_approval_Select_order_Click_upload_document_Verify_previous_document_Upload_new_document_Submit">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Result_approval_Select_order_Click_upload_document_Verify_previous_document_Upload_new_document_Submit"> 		
+<classes>
+<class name="LabTest.Result_approval_Select_order_Click_upload_document_Verify_previous_document_Upload_new_document_Submit">
+</class>
+</classes>
+</test>
+</suite>
+

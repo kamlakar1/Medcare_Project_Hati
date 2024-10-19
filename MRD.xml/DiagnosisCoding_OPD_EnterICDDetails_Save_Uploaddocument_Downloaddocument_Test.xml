@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="DiagnosisCoding_OPD_EnterICDDetails_Save_Uploaddocument_Downloaddocument_Test">
+<parameter name="Uesrid" value="11092023"/>
+<test name="DiagnosisCoding_OPD_EnterICDDetails_Save_Uploaddocument_Downloaddocument_Test"> 		
+<parameter name="PrimaryIdNumber12" value="110204"/> 
+<parameter name="ExparyDatePar" value="15/12/2026"/>
+<parameter name="FullNamePar" value="Evelyn"/>
+<parameter name="DateOfBirthPar" value="15/02/1990"/>
+<parameter name="ResidentialAddressPar" value="Pune"/>
+<parameter name="PostCodePar" value="5236"/>
+<parameter name="MobileNumberPar" value="7569206892"/>
+<classes>
+<class name="MRDTest.DiagnosisCoding_OPD_EnterICDDetails_Save_Uploaddocument_Downloaddocument_Test">
+</class>
+</classes>
+</test>
+</suite>

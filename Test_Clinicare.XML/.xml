@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="OPEncounter_GotoEMR_AddRadiologyOrder_MarkToBill_Radiology_VerifyINcurrentOrder_StatusScheduled_Test">
+<parameter name="Uesrid" value="11092023"/>
+<test name="OPEncounter_GotoEMR_AddRadiologyOrder_MarkToBill_Radiology_VerifyINcurrentOrder_StatusScheduled_Test"> 		
+<parameter name="PrimaryIdNumber12" value="11"/> 
+<parameter name="ExparyDatePar" value="15/12/2024"/>
+<parameter name="FullNamePar" value="javed"/>
+<parameter name="DateOfBirthPar" value="15/02/1990"/>
+<parameter name="ResidentialAddressPar" value="Pune"/>
+<parameter name="PostCodePar" value="52369874"/>
+<parameter name="MobileNumberPar" value="7569206892"/>
+<classes>
+<class name="RadiologyTest.OPEncounter_GotoEMR_AddRadiologyOrder_MarkToBill_Radiology_VerifyINcurrentOrder_StatusScheduled_Test">
+</class>
+</classes>
+</test>
+</suite>

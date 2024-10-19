@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Phlebotomy_Pending_Outsource_Reject_Current_order_Print_and_submit">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Phlebotomy_Pending_Outsource_Reject_Current_order_Print_and_submit"> 		
+<classes>
+<class name="LabTest.Phlebotomy_Pending_Outsource_Reject_Current_order_Print_and_submit">
+</class>
+</classes>
+</test>
+</suite>
+

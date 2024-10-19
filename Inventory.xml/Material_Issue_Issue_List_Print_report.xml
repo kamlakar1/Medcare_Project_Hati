@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Material_Issue_Issue_List_Print_report">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Material_Issue_Issue_List_Print_report"> 	
+<classes>
+<class name="Inventory.Material_Issue_Issue_List_Print_report">
+</class>
+</classes>
+</test>
+</suite>

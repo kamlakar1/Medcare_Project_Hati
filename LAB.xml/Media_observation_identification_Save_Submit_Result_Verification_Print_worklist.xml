@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Media_observation_identification_Save_Submit_Result_Verification_Print_worklist.xml">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Media_observation_identification_Save_Submit_Result_Verification_Print_worklist.xml"> 		
+<classes>
+<class name="LabTest.Media_observation_identification_Save_Submit_Result_Verification_Print_worklist">
+</class>
+</classes>
+</test>
+</suite>
+

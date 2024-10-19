@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="View_Details_Medical_Report_Request_Workflist_Add_report_details_Verify_visit_details_Save">
+<parameter name="Uesrid" value="10021234"/>
+<test name="View_Details_Medical_Report_Request_Workflist_Add_report_details_Verify_visit_details_Save"> 		
+<classes>
+<class name="MRDTest.View_Details_Medical_Report_Request_Workflist_Add_report_details_Verify_visit_details_Save">
+</class>
+</classes>
+</test>
+</suite>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Store_Indent_Approval_Print_Report_View_details">
+<parameter name="Uesrid" value="10021234"/>
+<parameter name="IndentNo" value="HISCKLS02SI10009"/>
+<test name="Store_Indent_Approval_Print_Report_View_details"> 	
+<classes>
+<class name="Inventory.Store_Indent_Approval_Print_Report_View_details">
+</class>
+</classes>
+</test>
+</suite>

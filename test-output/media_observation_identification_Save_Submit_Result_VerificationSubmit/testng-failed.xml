@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [media_observation_identification_Save_Submit_Result_VerificationSubmit]">
+  <parameter name="Uesrid" value="10021234"/>
+  <test thread-count="5" name="media_observation_identification_Save_Submit_Result_VerificationSubmit(failed)">
+    <classes>
+      <class name="LabTest.media_observation_identification_Save_Submit_Result_VerificationSubmit">
+        <methods>
+          <include name="FailedScreenShot"/>
+          <include name="startBrowser"/>
+          <include name="TC_04_media_observation_identification_Save_Submit_Result_VerificationSubmit"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- LabTest.media_observation_identification_Save_Submit_Result_VerificationSubmit -->
+    </classes>
+  </test> <!-- media_observation_identification_Save_Submit_Result_VerificationSubmit(failed) -->
+</suite> <!-- Failed suite [media_observation_identification_Save_Submit_Result_VerificationSubmit] -->

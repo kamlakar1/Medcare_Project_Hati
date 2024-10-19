@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Store_Indent_Against_Item_Add_Item_Save_Modify_Submit_View_Details">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Store_Indent_Against_Item_Add_Item_Save_Modify_Submit_View_Details"> 	
+
+<classes>
+<class name="Inventory.Store_Indent_Against_Item_Add_Item_Save_Modify_Submit_View_Details">
+</class>
+</classes>
+</test>
+</suite>

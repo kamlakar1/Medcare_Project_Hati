@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Stock_take_request_Add_new_save_Print_Report">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Stock_take_request_Add_new_save_Print_Report"> 	
+<classes>
+<class name="Inventory.Stock_take_request_Add_new_save_Print_Report">
+</class>
+</classes>
+</test>
+</suite>

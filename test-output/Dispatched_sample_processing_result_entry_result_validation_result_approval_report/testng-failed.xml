@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Dispatched_sample_processing_result_entry_result_validation_result_approval_report]">
+  <parameter name="Uesrid" value="10021234"/>
+  <test thread-count="5" name="Dispatched_sample_processing_result_entry_result_validation_result_approval_report(failed)">
+    <classes>
+      <class name="LabTest.Dispatched_sample_processing_result_entry_result_validation_result_approval_report">
+        <methods>
+          <include name="afterTest"/>
+          <include name="startBrowser"/>
+          <include name="FailedScreenShot"/>
+          <include name="TC_04_Dispatched_sample_processing_result_entry_result_validation_result_approval_report"/>
+        </methods>
+      </class> <!-- LabTest.Dispatched_sample_processing_result_entry_result_validation_result_approval_report -->
+    </classes>
+  </test> <!-- Dispatched_sample_processing_result_entry_result_validation_result_approval_report(failed) -->
+</suite> <!-- Failed suite [Dispatched_sample_processing_result_entry_result_validation_result_approval_report] -->

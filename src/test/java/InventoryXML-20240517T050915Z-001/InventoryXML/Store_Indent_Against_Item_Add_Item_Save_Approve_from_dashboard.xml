@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Store_Indent_Against_Item_Add_Item_Save_Approve_from_dashboard">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Store_Indent_Against_Item_Add_Item_Save_Approve_from_dashboard"> 	
+<classes>
+<class name="Inventory.Store_Indent_Against_Item_Add_Item_Save_Approve_from_dashboard">
+</class>
+</classes>
+</test>
+</suite>

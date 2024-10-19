@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Recollect_Phlebotomy_Central_Receiving_SampleProcessing_Result_ValidationResult_Approval_Report">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Recollect_Phlebotomy_Central_Receiving_SampleProcessing_Result_ValidationResult_Approval_Report"> 		
+<classes>
+<class name="LabTest.Recollect_Phlebotomy_Central_Receiving_SampleProcessing_Result_ValidationResult_Approval_Report">
+</class>
+</classes>
+</test>
+</suite>
+

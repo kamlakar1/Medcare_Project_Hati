@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ER_ConsultationQ_Radiology_PAC_RIS_Anesthesia_PAC_Schedule_PAC_AnesthesiaRecord.xml]">
+  <parameter name="Uesrid" value="11092023"/>
+  <test thread-count="5" name="ER_ConsultationQ_Radiology_PAC_RIS_Anesthesia_PAC_Schedule_PAC_AnesthesiaRecord.xml(failed)">
+    <classes>
+      <class name="ClinicareTest.ER_ConsultationQ_Radiology_PAC_RIS_Anesthesia_PAC_Schedule_PAC_AnesthesiaRecord">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="afterTest"/>
+          <include name="FailedScreenShot"/>
+          <include name="TC_02_ER_ConsultationQ_Radiology_PAC_RIS_Anesthesia_PAC_Schedule_PAC_AnesthesiaRecord"/>
+        </methods>
+      </class> <!-- ClinicareTest.ER_ConsultationQ_Radiology_PAC_RIS_Anesthesia_PAC_Schedule_PAC_AnesthesiaRecord -->
+    </classes>
+  </test> <!-- ER_ConsultationQ_Radiology_PAC_RIS_Anesthesia_PAC_Schedule_PAC_AnesthesiaRecord.xml(failed) -->
+</suite> <!-- Failed suite [ER_ConsultationQ_Radiology_PAC_RIS_Anesthesia_PAC_Schedule_PAC_AnesthesiaRecord.xml] -->

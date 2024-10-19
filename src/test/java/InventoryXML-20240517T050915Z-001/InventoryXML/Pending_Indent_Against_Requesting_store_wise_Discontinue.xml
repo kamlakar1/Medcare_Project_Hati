@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Pending_Indent_Against_Requesting_store_wise_Discontinue">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Pending_Indent_Against_Requesting_store_wise_Discontinue"> 	
+<classes>
+<class name="Inventory.Pending_Indent_Against_Requesting_store_wise_Discontinue">
+</class>
+</classes>
+</test>
+</suite>

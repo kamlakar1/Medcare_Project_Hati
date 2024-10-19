@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="ERPatient_Past_VistDetails_Print_Summery">
+<parameter name="Uesrid" value="11092023"/>
+<test name="ERPatient_Past_VistDetails_Print_Summery"> 	
+<classes>
+<class name="ClinicareTest.ERPatient_Past_VistDetails_Print_Summery">
+</class>
+</classes>
+</test>
+</suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Dispatch_screen_advanced_search">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Dispatch_screen_advanced_search"> 		
+<classes>
+<class name="MRDTest.MRD_File_Requested_Volume_Master_Search_patient_Add_volume">
+</class>
+</classes>
+</test>
+</suite>
+

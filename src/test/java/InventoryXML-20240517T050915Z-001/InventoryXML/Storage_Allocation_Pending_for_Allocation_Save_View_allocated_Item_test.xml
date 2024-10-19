@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Storage_Allocation_Pending_for_Allocation_Save_View_allocated_Item_test">
+<parameter name="Uesrid" value="11092023"/>
+<test name="Storage_Allocation_Pending_for_Allocation_Save_View_allocated_Item_test"> 		
+<classes>
+<class name="InventoryTest.Storage_Allocation_Pending_for_Allocation_Save_View_allocated_Item_test">
+</class>
+</classes>
+</test>
+</suite>

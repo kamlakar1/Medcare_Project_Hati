@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="MEDCARE_OPD_MODULE_Inventory_TEST_SUITE">
+
+ <suite-files>
+	                 
+          <suite-file path="Against_item_Add_item_Save_approve_From_dashboard.xml"/>
+          <suite-file path="Against_item_Add_item_Save_Modify_Submit_View_details.xml"/>
+          <suite-file path="Against_item_near_by_expiry_Add_item_Save_submit_View_details.xml"/>
+          <suite-file path="Against_item_nearby_expiry_Add_item_Save_View_details.xml"/>
+          <suite-file path="Click_Add_Against_Issue_Add_item_Save_Cancel.xml"/>
+          <suite-file path="Issue_List_Advanced_search.xml"/>
+          <suite-file path="Material_Return_Acceptance_Approve_Full_View_Details_Print_Report.xml"/>
+          <suite-file path="Material_Return_Acceptance_Approve_Partially_View_Details_Print_Report.xml"/>
+          <suite-file path="Material_Return_Acceptance_Dashboard_Advanced_search.xml"/>
+          <suite-file path="Material_Return_Acceptance_Rejected_Full_view_Details_Print_Report.xml"/>
+          <suite-file path="Material_Return_Click_Add_Against_item_Add_item_Save_View_details.xml"/>
+          <suite-file path="Material_Return_Dashboard_advanced_search.xml"/>
+          <suite-file path="Material_return_Dashboard_Print_Report.xml"/>
+          <suite-file path="Material_Return_Save_and_submit_View_details.xml"/>
+          <suite-file path="partially_Material_Rejected_Acceptance_Details_Print_Report.xml"/>
+          <suite-file path="partially_Material_Rejected_Acceptance_Rejected_Full_Print_Report.xml"/>
+          <suite-file path="Pending_Indent_Against_Requesting_store_wise_Discontinue.xml"/>
+          <suite-file path="Stock_take_request_Add_new_save_Cancel.xml"/>
+          <suite-file path="Stock_take_request_Add_new_save_Print_Report.xml"/>
+          <suite-file path="Stock_take_request_Add_new_save_View_details.xml"/>
+          <suite-file path="Stock_Take_Request_search_record_print_report.xml"/>
+          <suite-file path="Store_Indent_Against_Item_Add_Item_Save_Approve_from_dashboard.xml"/>
+          <suite-file path="Store_Indent_Against_Item_Add_Item_Save_Cancel.xml"/>
+          <suite-file path="Store_Indent_Against_Item_Add_Item_Save_Modify_Submit_View_Details.xml"/>
+          <suite-file path="Store_Indent_Against_Item_Add_Item_Save_Print_report.xml"/>
+          <suite-file path="Store_Indent_Approval_Advanced_search.xml"/> 
+          <suite-file path="Store_Indent_Approval_Approved_Full_View_details.xml"/>
+          <suite-file path="Store_Indent_Approval_Approved_Partially_View_details.xml"/>
+          <suite-file path="Store_Indent_Approval_Discontinue_View_details.xml"/>
+          <suite-file path="Store_Indent_Approval_Print_Report_View_details.xml"/>
+          <suite-file path="Store_Indent_Approval_Rejected_Full_View_details.xml"/>
+          <suite-file path="Store_Indent_Dashboard_Advanced_search.xml"/>
+          <suite-file path="Store_Register_Print_report.xml"/>
+          <suite-file path="Upload_stock_download_modify_Upload_Add_item_save.xml"/>
+          <suite-file path="Verify_stock_View_all_save.xml"/>
+                         
+        <!--        <suite-file path="testng-seleniumgrid-juiceshop.xml"/>-->
+
+    </suite-files>
+    
+
+</suite> 

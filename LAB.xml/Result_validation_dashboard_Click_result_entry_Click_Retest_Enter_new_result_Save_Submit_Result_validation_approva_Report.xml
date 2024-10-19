@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Result_validation_dashboard_Click_result_entry_Click_Retest_Enter_new_result_Save_Submit_Result_validation_approva_Report">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Result_validation_dashboard_Click_result_entry_Click_Retest_Enter_new_result_Save_Submit_Result_validation_approva_Report"> 		
+<classes>
+<class name="LabTest.Result_validation_dashboard_Click_result_entry_Click_Retest_Enter_new_result_Save_Submit_Result_validation_approva_Report">
+</class>
+</classes>
+</test>
+</suite>
+

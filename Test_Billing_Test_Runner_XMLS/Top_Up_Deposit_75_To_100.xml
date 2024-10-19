@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Top_Up_Deposit_50_To_75_Test">
+<parameter name="Uesrid" value="10931994"/>
+<test name="Top_Up_Deposit_50_To_75_Test">
+
+
+<classes>
+<class name="BillingTest.Top_Up_Deposit_75_To_100_Test">
+</class>
+</classes>
+</test>
+</suite>

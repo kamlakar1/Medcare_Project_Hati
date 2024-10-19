@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Department_Request_Save_MRD_Department_Request_Allocate_Transferred_File_Acceptance_MRD_Receive">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Department_Request_Save_MRD_Department_Request_Allocate_Transferred_File_Acceptance_MRD_Receive"> 		
+<classes>
+<class name="MRDTest.Department_Request_Save_MRD_Department_Request_Allocate_Transferred_File_Acceptance_MRD_Receive">
+</class>
+</classes>
+</test>
+</suite>
+

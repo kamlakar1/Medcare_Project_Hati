@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Upload_stock_download_modify_Upload_Add_item_save">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Upload_stock_download_modify_Upload_Add_item_save"> 	
+<classes>
+<class name="Inventory.Upload_stock_download_modify_Upload_Add_item_save">
+</class>
+</classes>
+</test>
+</suite>

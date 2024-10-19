@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Workflist_Edit_Verify_visit_details_Save_Modify_Submit_Medical_Report_Request_Clic_Details_Dispatch_ViewReport">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Workflist_Edit_Verify_visit_details_Save_Modify_Submit_Medical_Report_Request_Clic_Details_Dispatch_ViewReport">
+<parameter name="SecondDayMRN" value="HISCKLMRN24311595"/>	 		
+<classes>
+<class name="MRDTest.Workflist_Edit_Verify_visit_details_Save_Modify_Submit_Medical_Report_Request_Clic_Details_Dispatch_ViewReport">
+</class>
+</classes>
+</test>
+</suite>
+

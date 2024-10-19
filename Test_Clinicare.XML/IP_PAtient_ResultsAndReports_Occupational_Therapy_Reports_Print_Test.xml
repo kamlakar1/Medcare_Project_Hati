@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="IP_PAtient_ResultsAndReports_Occupational_Therapy_Reports_Print_Test">
+<parameter name="Uesrid" value="10571057"/>
+<test name="IP_PAtient_ResultsAndReports_Occupational_Therapy_Reports_Print_Test"> 		
+<parameter name="PatientMRN" value="HISCKLMRN241019326"/> 
+<classes>
+<class name="ClinicareTest2.IP_PAtient_ResultsAndReports_Occupational_Therapy_Reports_Print_Test">
+</class>
+</classes>
+</test>
+</suite>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="CLINICARE_MODULE_01_TEST_SUITE">
+
+ <suite-files>
+	 
+	     <suite-file path="ER_Patient_Encounter_Summery_PrintOrder_Test.xml"/>
+	                 
+         <suite-file path="ER_Patient_Past_VistDetails_Test.xml"/>
+         
+         <suite-file path="ER_Registration_Location_Add_GCS_Assistment_Save_Test.xml"/>
+         
+         <suite-file path="ER_Registration_Location_Add_Vitals_Save_Test.xml"/>
+	                 
+         <suite-file path="ER_Registration_Triage_Add_Triage_Category_Save_Test.xml"/>
+         
+         <suite-file path="IP_Patient_Add_Re_Assisment_Save_Test.xml"/>
+         
+         <suite-file path="IP_Patient_Add_Vitals_details_Save_Test.xml"/>
+	                 
+         <suite-file path="IP_Patient_Conduct_Q_Other_Order_Result_Test.xml"/>
+         
+         <suite-file path="IP_Patient_Encounter_Summery_Advanced_Search_By_MRN_Test.xml"/>
+         
+         <suite-file path="IP_Patient_Past_Vists_Print_Summery_Test.xml"/>
+	                 
+         <suite-file path="OP_PAtient_Encounter_Summery_Advanced_Search_By_MRN_Test.xml"/>
+         
+         <suite-file path="OP_Patient_Encounter_Summery_Print_Order_Test.xml"/>
+         
+         <suite-file path="OPPatient_SearchInClinicare_OPConsult_AdmitOrder_Save_LoginMedcare_ADTDashboard_Test.xml"/>
+	                 
+         <suite-file path="OPPatient_SearchInClinicare_OPConsult_StartConsult_Conduct_Q_AddOrders_Test.xml"/>
+              
+         <suite-file path="IP_PAtient_Non_OT_Procedure_ResultsAndReports_Test.xml"/>
+	                 
+         <suite-file path="IP_Patient_NonOT_Procudure_Conduct_Notes_Mark_Conducted_PastVistis_Print_Summery_Test.xml"/>
+         
+         <suite-file path="IP_Patient_NonOT_Procudure_Conduct_Notes_Mark_Conducted_PastVistis_Test.xml"/>
+         
+         <suite-file path="IP_Patient_Profile_Test.xml"/>
+	                 
+         <suite-file path="IP_PAtient_ResultsAndReports_Occupational_Therapy_Reports_Print_Test.xml"/>
+         
+          <suite-file path="IP_PAtient_ResultsAndReports_Speech_Therapy_Reports_Test.xml"/>
+         
+         <suite-file path="IP_Re_Assisment_Add_History_Diagnosis_Examination_Order_Re_Assisment_Notes_Test.xml"/>
+	                 
+         <suite-file path="OP_Patient_ConsultQ_Add_CareTeam_Test.xml"/>
+         
+          <suite-file path="OP_Patient_ConsultQ_Attachement_Upload_Document_Test.xml"/>
+         
+         <suite-file path="OP_Patient_ConsultQ_Notes_Test.xml"/>
+	                 
+         <suite-file path="OPPatient_SearchInClinicare_OPConsult_AdmitOrder_Save_LoginMedcare_ADTDashboard_Test.xml"/>
+                 
+        <!--        <suite-file path="testng-seleniumgrid-juiceshop.xml"/>-->
+        
+        
+           
+
+    </suite-files>
+    
+
+</suite> 

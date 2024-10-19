@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Update2ndPayer]" guice-stage="DEVELOPMENT">
+  <parameter name="Uesrid" value="10021234"/>
+  <test thread-count="5" name="test4(failed)">
+    <parameter name="EffectivedatePar" value="15/11/2030"/>
+    <parameter name="PolicyNumberPar" value="98797987"/>
+    <parameter name="MRNSearchPar2" value="HISCKLMRN231111935"/>
+    <parameter name="EffectivedatePar2" value="15/11/2030"/>
+    <parameter name="PolicyNumberPar2" value="987097098"/>
+    <parameter name="MRNSearchPar" value="HISCKLMRN231111935"/>
+    <classes>
+      <class name="OPDTest.Update2ndPayer">
+        <methods>
+          <include name="afterTest"/>
+          <include name="startBrowser"/>
+          <include name="TC_01_verify_That_User_Is_Able_To_Login_MedcareApplicationogin"/>
+          <include name="TC_02_Verify_That_User_Able_to_Update_sponsor_2Payer"/>
+        </methods>
+      </class> <!-- OPDTest.Update2ndPayer -->
+    </classes>
+  </test> <!-- test4(failed) -->
+</suite> <!-- Failed suite [Update2ndPayer] -->

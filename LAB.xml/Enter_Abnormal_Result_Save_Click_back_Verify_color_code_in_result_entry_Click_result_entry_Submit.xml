@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Enter_Abnormal_Result_Save_Click_back_Verify_color_code_in_result_entry_Click_result_entry_Submit">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Enter_Abnormal_Result_Save_Click_back_Verify_color_code_in_result_entry_Click_result_entry_Submit"> 		
+<classes>
+<class name="LabTest.Enter_Abnormal_Result_Save_Click_back_Verify_color_code_in_result_entry_Click_result_entry_Submit">
+</class>
+</classes>
+</test>
+</suite>
+

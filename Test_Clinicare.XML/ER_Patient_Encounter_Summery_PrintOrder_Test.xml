@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="ER_Patient_Encounter_Summery_PrintOrder_Test">
+<parameter name="Uesrid" value="10571057"/>
+<test name="ER_Patient_Encounter_Summery_PrintOrder_Test"> 		
+<parameter name="PatientMRN" value="HISCKLMRN241019227"/> 
+<classes>
+<class name="ClinicareTest2.ER_Patient_Encounter_Summery_PrintOrder_Test">
+</class>
+</classes>
+</test>
+</suite>

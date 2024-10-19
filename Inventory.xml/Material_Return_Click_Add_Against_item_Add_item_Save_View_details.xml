@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Material_Return_Click_Add_Against_item_Add_item_Save_View_details">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Material_Return_Click_Add_Against_item_Add_item_Save_View_details"> 	
+<classes>
+<class name="Inventory.Material_Return_Click_Add_Against_item_Add_item_Save_View_details">
+</class>
+</classes>
+</test>
+</suite>
