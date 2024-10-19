@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="OP_Existing_IP_Admisison_MRN_File_Requested_Allocated_Transferred_Transferred_to_other_department">
+<parameter name="Uesrid" value="10021234"/>
+<test name="OP_Existing_IP_Admisison_MRN_File_Requested_Allocated_Transferred_Transferred_to_other_department">
+<parameter name="SecondDayMRN" value="HISCKLMRN24311595"/>	 		
+<classes>
+<class name="MRDTest.OP_Existing_IP_Admisison_MRN_File_Requested_Allocated_Transferred_Transferred_to_other_department">
+</class>
+</classes>
+</test>
+</suite>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Restest_Save_Submit_Result_entry_Enter_new_result_Result_EntryResult_validation_Result_approval_Report">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Restest_Save_Submit_Result_entry_Enter_new_result_Result_EntryResult_validation_Result_approval_Report"> 		
+<classes>
+<class name="LabTest.Restest_Save_Submit_Result_entry_Enter_new_result_Result_EntryResult_validation_Result_approval_Report">
+</class>
+</classes>
+</test>
+</suite>
+

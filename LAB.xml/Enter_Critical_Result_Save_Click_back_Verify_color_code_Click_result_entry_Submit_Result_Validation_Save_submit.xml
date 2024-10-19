@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Enter_Critical_Result_Save_Click_back_Verify_color_code_Click_result_entry_Submit_Result_Validation_Save_submit">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Enter_Critical_Result_Save_Click_back_Verify_color_code_Click_result_entry_Submit_Result_Validation_Save_submit"> 		
+<classes>
+<class name="LabTest.Enter_Critical_Result_Save_Click_back_Verify_color_code_Click_result_entry_Submit_Result_Validation_Save_submit">
+</class>
+</classes>
+</test>
+</suite>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Un_Hold_Apointment]" guice-stage="DEVELOPMENT">
+  <parameter name="AppointmenttypeA" value="Department"/>
+  <parameter name="specialityA" value="Cardiology"/>
+  <parameter name="Uesrid" value="10021234"/>
+  <parameter name="consultationA" value="Clinical Consultation"/>
+  <test thread-count="5" name="Test e2e Un_Hold_Apointment flow(failed)">
+    <classes>
+      <class name="OPDTest.Un_Hold_Apointment">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="TC_01_Verify_that_user_is_able_to_Un_Hold_the_appointment" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- OPDTest.Un_Hold_Apointment -->
+    </classes>
+  </test> <!-- Test e2e Un_Hold_Apointment flow(failed) -->
+</suite> <!-- Failed suite [Un_Hold_Apointment] -->

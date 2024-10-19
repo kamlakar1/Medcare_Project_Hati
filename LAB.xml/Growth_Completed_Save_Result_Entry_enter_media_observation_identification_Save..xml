@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Growth_Completed_Save_Result_Entry_enter_media_observation_identification_Save">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Growth_Completed_Save_Result_Entry_enter_media_observation_identification_Save"> 		
+<classes>
+<class name="LabTest.Growth_Completed_Save_Result_Entry_enter_media_observation_identification_Save">
+</class>
+</classes>
+</test>
+</suite>
+

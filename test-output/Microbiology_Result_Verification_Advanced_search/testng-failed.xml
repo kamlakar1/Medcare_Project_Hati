@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Microbiology_Result_Verification_Advanced_search]">
+  <parameter name="Uesrid" value="10021234"/>
+  <test thread-count="5" name="Microbiology_Result_Verification_Advanced_search(failed)">
+    <classes>
+      <class name="LabTest.Microbiology_Result_Verification_Advanced_search">
+        <methods>
+          <include name="afterTest"/>
+          <include name="startBrowser"/>
+          <include name="TC_02_Microbiology_Result_Verification_Advanced_search"/>
+          <include name="FailedScreenShot"/>
+        </methods>
+      </class> <!-- LabTest.Microbiology_Result_Verification_Advanced_search -->
+    </classes>
+  </test> <!-- Microbiology_Result_Verification_Advanced_search(failed) -->
+</suite> <!-- Failed suite [Microbiology_Result_Verification_Advanced_search] -->

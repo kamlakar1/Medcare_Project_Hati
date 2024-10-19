@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Material_Return_Acceptance_Approve_Full_View_Details_Print_Report">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Material_Return_Acceptance_Approve_Full_View_Details_Print_Report"> 	
+<classes>
+<class name="Inventory.Material_Return_Acceptance_Approve_Full_View_Details_Print_Report">
+</class>
+</classes>
+</test>
+</suite>

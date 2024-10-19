@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="IP_Patient_Discharge_Completed_Test">
+<parameter name="Uesrid" value="10571057"/>
+<test name="IP_Patient_Discharge_Completed_Test"> 		
+<parameter name="PatientMRN" value="HISCKLMRN241019317"/> 
+  <classes>
+<class name="ClinicareTest2.IP_Patient_Discharge_Completed_Test">
+</class>
+  </classes>
+</test>
+</suite>

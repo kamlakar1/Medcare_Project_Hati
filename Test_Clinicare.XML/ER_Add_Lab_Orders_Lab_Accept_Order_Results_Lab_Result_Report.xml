@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="ER_Add_Lab_Orders_Lab_Accept_Order_Results_Lab_Result_Report">
+
+<test name="ER_Add_Lab_Orders_Lab_Accept_Order_Results_Lab_Result_Report"> 	
+<classes>
+<class name="ClinicareTest.ER_Add_Lab_Orders_Lab_Accept_Order_Results_Lab_Result_Report">
+</class>
+</classes>
+</test>
+</suite>

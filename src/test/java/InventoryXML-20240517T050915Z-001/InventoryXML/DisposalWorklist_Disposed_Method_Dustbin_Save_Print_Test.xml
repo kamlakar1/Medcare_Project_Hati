@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="DisposalWorklist_Disposed_Method_Dustbin_Save_Print_Test">
+<parameter name="Uesrid" value="11092023"/>
+<test name="DisposalWorklist_Disposed_Method_Dustbin_Save_Print_Test"> 		
+<classes>
+<class name="InventoryTest.DisposalWorklist_Disposed_Method_Dustbin_Save_Print_Test">
+</class>
+</classes>
+</test>
+</suite>

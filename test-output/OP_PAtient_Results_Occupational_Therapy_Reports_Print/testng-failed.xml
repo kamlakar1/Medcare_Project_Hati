@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [OP_PAtient_Results_Occupational_Therapy_Reports_Print]">
+  <test thread-count="5" name="OP_PAtient_Results_Occupational_Therapy_Reports_Print(failed)">
+    <classes>
+      <class name="ClinicareTest.OP_PAtient_Results_Occupational_Therapy_Reports_Print">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="afterTest"/>
+          <include name="TC_02_OP_PAtient_Results_Speech_Therapy_Reports_Print"/>
+          <include name="FailedScreenShot"/>
+        </methods>
+      </class> <!-- ClinicareTest.OP_PAtient_Results_Occupational_Therapy_Reports_Print -->
+    </classes>
+  </test> <!-- OP_PAtient_Results_Occupational_Therapy_Reports_Print(failed) -->
+</suite> <!-- Failed suite [OP_PAtient_Results_Occupational_Therapy_Reports_Print] -->

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="OP_Patient_ConsultQ_Print_Orders">
+
+<test name="OP_Patient_ConsultQ_Print_Orders"> 	
+<classes>
+<class name="ClinicareTest.OP_Patient_ConsultQ_Print_Orders">
+</class>
+</classes>
+</test>
+</suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Search_Patient_Save_Request_Verify_in_dashboard_Modify_Save">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Search_Patient_Save_Request_Verify_in_dashboard_Modify_Save"> 		
+<classes>
+<class name="MRDTest.Medical_Report_Request_Workflist_Add_report_details_Verify_visit_details_Save_Modify_Submit">
+</class>
+</classes>
+</test>
+</suite>
+

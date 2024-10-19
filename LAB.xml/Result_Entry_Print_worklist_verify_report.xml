@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Result_Entry_Print_worklist_verify_report">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Result_Entry_Print_worklist_verify_report"> 		
+<classes>
+<class name="LabTest.Result_Entry_Print_worklist_verify_report">
+</class>
+</classes>
+</test>
+</suite>
+
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="MEDCARE_OPD_MODULE_Inventory_TEST_SUITE">
+
+ <suite-files>
+	                 
+          <suite-file path="Phlebotomy_Printand_submit_Pending_Dispatched_Dispatched_same_unit_Cancel.xml"/>
+          <suite-file path="Phlebotomy_Printand_submit_Pending_Dispatched_Dispatched_same_unit_Reprint.xml"/>
+          <suite-file path="Phlebotomy_Printand_submit_Pending_Dispatched_Reprint.xml"/>
+          <suite-file path="Phlebotomy_Printand_submit_Pending_Dispatched_Reprint.xml"/>
+          <suite-file path="Phlebotomy_Printand_submit_Pending_Outsource_Reprint_lab_form_barcode.xml"/>
+          <suite-file path="Phlebotomy_Printand_submit_Pending_Outsource_Upload_document.xml"/>
+          <suite-file path="Phlebotomy_Print_and_submit_Pending_Dispatched_Upload_document.xml"/>
+          <suite-file path="Phlebotomy_Pending_Outsource_Reject_Current_order_Print_and_submit.xml"/>
+          <suite-file path="Phlebotomy_Pending_Outsource_Outsourced_Upload_document_Received.xml"/>
+          <suite-file path="Phlebotomy_Pending_Dispatched_Dispatched_Upload_document.xml"/>
+          <suite-file path="Outsource_Advanced_search.xml"/>
+
+          
+        <!--        <suite-file path="testng-seleniumgrid-juiceshop.xml"/>-->
+
+    </suite-files>
+    
+
+</suite> 

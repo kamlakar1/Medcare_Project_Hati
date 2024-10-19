@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="OP_Patient_ConsultQ_Notes_Test">
+<parameter name="Uesrid" value="10571057"/>
+<test name="OP_Patient_ConsultQ_Notes_Test"> 		
+<parameter name="PatientMRN" value="HISCKLMRN241019297"/> 
+  <classes>
+<class name="ClinicareTest2.OP_Patient_ConsultQ_Notes_Test">
+</class>
+  </classes>
+</test>
+</suite>

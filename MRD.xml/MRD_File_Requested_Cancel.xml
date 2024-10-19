@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="MRD_File_Requested_Cancel">
+<parameter name="Uesrid" value="10021234"/>
+<test name="MRD_File_Requested_Cancel"> 		
+<classes>
+<class name="MRDTest.MRD_File_Requested_Cancel">
+</class>
+</classes>
+</test>
+</suite>
+

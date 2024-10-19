@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Stock_Adjustment_Add_Item_Stock_Adjustment_Adjustment_Type_Addition_Save_Details_Test">
+<parameter name="Uesrid" value="11092023"/>
+<test name="Stock_Adjustment_Add_Item_Stock_Adjustment_Adjustment_Type_Addition_Save_Details_Test"> 		
+<classes>
+<class name="InventoryTest.Stock_Adjustment_Add_Item_Stock_Adjustment_Adjustment_Type_Addition_Save_Details_Test">
+</class>
+</classes>
+</test>
+</suite>

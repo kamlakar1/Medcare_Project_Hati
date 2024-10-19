@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="partially_Material_Rejected_Acceptance_Rejected_Full_Print_Report">
+<parameter name="Uesrid" value="10021234"/>
+<test name="partially_Material_Rejected_Acceptance_Rejected_Full_Print_Report"> 	
+<classes>
+<class name="Inventory.partially_Material_Rejected_Acceptance_Rejected_Full_Print_Report">
+</class>
+</classes>
+</test>
+</suite>

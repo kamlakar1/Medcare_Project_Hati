@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [UpdatePayerDelete]" guice-stage="DEVELOPMENT">
+  <parameter name="Uesrid" value="10021234"/>
+  <test thread-count="5" name="UpdateSponsorDelete1(failed)">
+    <parameter name="QuickAddNotesPar" value="Patient has Blood suger"/>
+    <parameter name="QuickPatientNotesPar" value="Feeling well"/>
+    <parameter name="QuickEncounterNotesPar" value="Patient need wheel chair"/>
+    <parameter name="EffectivedatePar" value="01/12/2026"/>
+    <parameter name="DeleteRemarksPar" value="Testing"/>
+    <parameter name="QuickEncounterRemarksPar" value="Patient has favour not felling well"/>
+    <parameter name="QuickReferralRemarksPar" value="Overall patient condition is fine"/>
+    <parameter name="PolicyNumberPar2" value="987097098"/>
+    <parameter name="QuickExparyDatePar" value="12/10/2024"/>
+    <parameter name="QuickMobileNumberPar" value="8149596832"/>
+    <parameter name="PolicyNumberPar" value="98797987"/>
+    <parameter name="QuickPrimaryIdNumberPar" value="RO98989"/>
+    <parameter name="QuickDateOfBirthPar" value="12/02/1991"/>
+    <parameter name="EffectivedatePar2" value="15/11/2026"/>
+    <parameter name="ReasonSelectPar" value="For Follow Up"/>
+    <parameter name="QuickFullNamePar" value="ROY"/>
+    <classes>
+      <class name="OPDTest.UpdatePayerDelete">
+        <methods>
+          <include name="TC_01_verify_That_User_Is_Able_To_Login_MedcareApplicationogin"/>
+          <include name="TC_02_Verify_That_User_Able_to_Delete_Update_sponsor_Delete"/>
+          <include name="afterTest"/>
+          <include name="startBrowser"/>
+        </methods>
+      </class> <!-- OPDTest.UpdatePayerDelete -->
+    </classes>
+  </test> <!-- UpdateSponsorDelete1(failed) -->
+</suite> <!-- Failed suite [UpdatePayerDelete] -->

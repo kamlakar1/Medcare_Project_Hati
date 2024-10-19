@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [IP_Patient_NonOT_Procudure_Conduct_Notes_Mark_Conducted_PastVistis_Test]">
+  <parameter name="Uesrid" value="10571057"/>
+  <test thread-count="5" name="IP_Patient_NonOT_Procudure_Conduct_Notes_Mark_Conducted_PastVistis_Test(failed)">
+    <parameter name="PatientMRN" value="HISCKLMRN241019246"/>
+    <classes>
+      <class name="ClinicareTest2.IP_Patient_NonOT_Procudure_Conduct_Notes_Mark_Conducted_PastVistis_Test">
+        <methods>
+          <include name="FailedScreenShot"/>
+          <include name="afterTest"/>
+          <include name="startBrowser"/>
+          <include name="TC_02_User_Can_Do_IP_Patient_NonOT_Procudure_Conduct_Notes_Mark_Conducted_PastVistis_Test" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- ClinicareTest2.IP_Patient_NonOT_Procudure_Conduct_Notes_Mark_Conducted_PastVistis_Test -->
+    </classes>
+  </test> <!-- IP_Patient_NonOT_Procudure_Conduct_Notes_Mark_Conducted_PastVistis_Test(failed) -->
+</suite> <!-- Failed suite [IP_Patient_NonOT_Procudure_Conduct_Notes_Mark_Conducted_PastVistis_Test] -->

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Dispatch_screen_advanced_search">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Dispatch_screen_advanced_search"> 		
+<classes>
+<class name="MRDTest.Create_Volume_Allocated_Transferred_File_Acceptance_Back_to_MRD_Receive">
+</class>
+</classes>
+</test>
+</suite>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Collection_Summary_Search_by_Payment_Mode">
+<parameter name="Uesrid" value="10931994"/>
+<test name="Collection_Summary_Search_by_Payment_Mode">
+<classes>
+<class name="BillingTest.Collection_Summary_Search_by_Payment_Mode">
+</class>
+</classes>
+</test>
+</suite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Expiry_Save_Approve_from_dashboard_view_details">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Expiry_Save_Approve_from_dashboard_view_details"> 	
+<classes>
+<class name="Procurment_Test.Expiry_Save_Approve_from_dashboard_view_details">
+</class>
+</classes>
+</test>
+</suite>

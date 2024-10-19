@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Against_Issue_Add_item_Save_approve_From_dashboard">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Against_Issue_Add_item_Save_approve_From_dashboard"> 	
+<classes>
+<class name="Inventory.Against_Issue_Add_item_Save_approve_From_dashboard">
+</class>
+</classes>
+</test>
+</suite>

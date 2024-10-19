@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Phlebotomy_Central_Receiving_Sample_Processing_Media_Observation_Growth_Completed_Save]">
+  <parameter name="Uesrid" value="10021234"/>
+  <test thread-count="5" name="Phlebotomy_Central_Receiving_Sample_Processing_Media_Observation_Growth_Completed_Save(failed)">
+    <classes>
+      <class name="LabTest.Phlebotomy_Central_Receiving_Sample_Processing_Media_Observation_Growth_Completed_Save">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="TC_04_Phlebotomy_Central_Receiving_Sample_Processing_Media_Observation_Growth_Completed_Save"/>
+          <include name="afterTest"/>
+          <include name="FailedScreenShot"/>
+        </methods>
+      </class> <!-- LabTest.Phlebotomy_Central_Receiving_Sample_Processing_Media_Observation_Growth_Completed_Save -->
+    </classes>
+  </test> <!-- Phlebotomy_Central_Receiving_Sample_Processing_Media_Observation_Growth_Completed_Save(failed) -->
+</suite> <!-- Failed suite [Phlebotomy_Central_Receiving_Sample_Processing_Media_Observation_Growth_Completed_Save] -->

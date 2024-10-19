@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Reject_order_print_submit_central_receiving_submit_sample_submit_result_entry_view_order">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Reject_order_print_submit_central_receiving_submit_sample_submit_result_entry_view_order"> 		
+<classes>
+<class name="LabTest.Reject_order_print_submit_central_receiving_submit_sample_submit_result_entry_view_order">
+</class>
+</classes>
+</test>
+</suite>
+

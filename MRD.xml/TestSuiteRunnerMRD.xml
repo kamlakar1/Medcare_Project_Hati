@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="MEDCARE_LAB_MODULE_01_TEST_SUITE">
+
+ <suite-files>
+	 
+	     
+         <suite-file path="DiagnosisCoding_IPD_Ente_ICDDetails_Save_Uploaddocument_Deletedoc_Upload_Save_Test.xml"/>
+         
+         <suite-file path="DiagnosisCoding_IPD_Enter_ICD_Details_Save_Test.xml"/>
+         
+         <suite-file path="DiagnosisCoding_IPD_EnterICDDetails_Save_Uploaddocument_Downloaddocument_Test.xml"/>
+         
+         <suite-file path="DiagnosisCoding_OPD_Ente_ICDDetails_Save_Uploaddocument_Deletedoc_Upload_Save_Test.xml"/>
+         
+         <suite-file path="DiagnosisCoding_OPD_Enter_ICD_Details_Save_Test.xml"/>
+         
+         <suite-file path="DiagnosisCoding_OPD_EnterICDDetails_Save_Uploaddocument_Downloaddocument_Test.xml"/>
+         
+         <suite-file path="DiagnosisCoding_OPD_Uploaddocument_Save_Deletedoc_Test.xml"/>
+         
+         <suite-file path="DiagnosisCoding_OPD_Uploaddocument_Save_Downloaddocument_Test.xml"/>
+         
+          <suite-file path="DiagnosisCoding_OPD_Uploaddocument_Save_Test.xml"/>
+         
+         <suite-file path="DocumentManagement_Search_IP_Patient_Upload_Document_Save_DeleteDoc_Test.xml"/>
+         
+          <suite-file path="DocumentManagement_Search_IP_Patient_Upload_Document_Save_Download_Test.xml"/>
+         
+         <suite-file path="DocumentManagement_Search_IP_Patient_Upload_Document_Save_Test.xml"/>
+         
+          <suite-file path="DocumentManagement_Search_OP_Patient_Upload_Document_Save_Delete_Test.xml"/>
+         
+         <suite-file path="DocumentManagement_Search_OP_Patient_Upload_Document_Save_Download_Test.xml"/>
+         
+          <suite-file path="DocumentManagement_Search_OP_Patient_Upload_Document_Save_Test.xml"/>
+         
+         <suite-file path="OP_ExistingAppoint_CreateVolume_Allocated_Transferred_FileAccept_BacktoMRDRece_MRDRece_Test.xml"/>
+                
+   
+        <!--        <suite-file path="testng-seleniumgrid-juiceshop.xml"/>-->
+        
+        
+           
+
+    </suite-files>
+    
+
+</suite> 

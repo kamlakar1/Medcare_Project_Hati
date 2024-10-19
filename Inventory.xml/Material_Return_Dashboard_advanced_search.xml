@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Material_Return_Dashboard_advanced_search">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Material_Return_Dashboard_advanced_search"> 	
+<classes>
+<class name="Inventory.Material_Return_Dashboard_advanced_search">
+</class>
+</classes>
+</test>
+</suite>

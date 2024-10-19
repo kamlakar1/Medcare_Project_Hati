@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="OP_PAtient_Non_OT_Procedure_Results_Results_Print">
+
+<test name="OP_PAtient_Non_OT_Procedure_Results_Results_Print"> 	
+<classes>
+<class name="ClinicareTest.OP_PAtient_Non_OT_Procedure_Results_Results_Print">
+</class>
+</classes>
+</test>
+</suite>

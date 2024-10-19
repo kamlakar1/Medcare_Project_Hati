@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="OP_PAtient_Encounter_Summery_Advanced_Search_By_MRN_Test">
+<parameter name="Uesrid" value="10571057"/>
+<test name="OP_PAtient_Encounter_Summery_Advanced_Search_By_MRN_Test"> 		
+<parameter name="PatientMRN" value="HISCKLMRN241019296"/> 
+  <classes>
+<class name="ClinicareTest2.OP_PAtient_Encounter_Summery_Advanced_Search_By_MRN_Test">
+</class>
+  </classes>
+</test>
+</suite>

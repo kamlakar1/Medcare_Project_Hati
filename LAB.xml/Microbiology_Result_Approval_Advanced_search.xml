@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Microbiology_Result_Approval_Advanced_search">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Microbiology_Result_Approval_Advanced_search"> 		
+<classes>
+<class name="LabTest.Microbiology_Result_Approval_Advanced_search">
+</class>
+</classes>
+</test>
+</suite>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Recollect_at_approval_Central_Receiving_Sample_Processing_Result_entry_Result_Validation_ResultApproval_Recollect">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Recollect_at_approval_Central_Receiving_Sample_Processing_Result_entry_Result_Validation_ResultApproval_Recollect"> 		
+<classes>
+<class name="LabTest.Recollect_at_approval_Central_Receiving_Sample_Processing_Result_entry_Result_Validation_ResultApproval_Recollect">
+</class>
+</classes>
+</test>
+</suite>
+
