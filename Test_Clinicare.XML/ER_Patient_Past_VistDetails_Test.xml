@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="ER_Patient_Past_VistDetails_Test">
+<parameter name="Uesrid" value="10571057"/>
+<test name="ER_Patient_Past_VistDetails_Test"> 		
+<parameter name="PatientMRN" value="HISCKLMRN241019124"/> 
+<classes>
+<class name="ClinicareTest2.ER_Patient_Past_VistDetails_Test">
+</class>
+</classes>
+</test>
+</suite>

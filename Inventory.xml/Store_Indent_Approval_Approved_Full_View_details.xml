@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Store_Indent_Approval_Approved_Full_View_details">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Store_Indent_Approval_Approved_Full_View_details"> 	
+<parameter name="IndentNo" value="HISCKLSTKLO001REQ-FOR-QUT10037"/>
+<classes>
+<class name="Inventory.Store_Indent_Approval_Approved_Full_View_details">
+</class>
+</classes>
+</test>
+</suite>

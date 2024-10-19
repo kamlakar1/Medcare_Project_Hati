@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="IP_Patient_Add_Re_Assisment_Save_Test">
+<parameter name="Uesrid" value="10571057"/>
+<test name="IP_Patient_Add_Re_Assisment_Save_Test"> 		
+<parameter name="PatientMRN" value="HISCKLMRN241019298"/> 
+<classes>
+<class name="ClinicareTest2.IP_Patient_Add_Re_Assisment_Save_Test">
+</class>
+</classes>
+</test>
+</suite>

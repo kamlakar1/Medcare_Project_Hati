@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Store_Indent_Against_Item_Add_Item_Save_Print_report">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Store_Indent_Against_Item_Add_Item_Save_Print_report"> 	
+<classes>
+<class name="Inventory.Store_Indent_Against_Item_Add_Item_Save_Print_report">
+</class>
+</classes>
+</test>
+</suite>

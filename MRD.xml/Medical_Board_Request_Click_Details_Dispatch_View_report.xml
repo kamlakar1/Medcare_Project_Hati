@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Medical_Board_Request_Click_Details_Dispatch_View_report">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Medical_Board_Request_Click_Details_Dispatch_View_report"> 		
+<classes>
+<class name="MRDTest.Medical_Board_Request_Click_Details_Dispatch_View_report">
+</class>
+</classes>
+</test>
+</suite>
+

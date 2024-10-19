@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Contract_Add_Test">
+<parameter name="Uesrid" value="10931994"/>
+<test name="Contract_Add_Test">
+<parameter name="ContractCodePar" value="989766788"/>
+<parameter name="DescriptionPar" value="ADITYA"/>
+<parameter name="ReferenceNoPar" value="9879997"/>
+<parameter name="ValidToPar" value="01/02/2024"/>
+<parameter name="CoPayNumberPar" value="5"/>
+<parameter name="ServiceDesPar" value="CT Brain"/>
+<classes>
+<class name="BillingTest.Contract_Add_Test">
+</class>
+</classes>
+</test>
+</suite>

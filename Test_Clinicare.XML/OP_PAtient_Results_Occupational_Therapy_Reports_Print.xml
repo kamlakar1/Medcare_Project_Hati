@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="OP_PAtient_Results_Occupational_Therapy_Reports_Print">
+<test name="OP_PAtient_Results_Occupational_Therapy_Reports_Print"> 	
+<classes>
+<class name="ClinicareTest.OP_PAtient_Results_Occupational_Therapy_Reports_Print">
+</class>
+</classes>
+</test>
+</suite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ER_ConsultationQ_Radiology_PAC_RIS_shedule_conduct_report_release]">
+  <parameter name="Uesrid" value="11092023"/>
+  <test thread-count="5" name="ER_ConsultationQ_Radiology_PAC_RIS_shedule_conduct_report_release(failed)">
+    <classes>
+      <class name="ClinicareTest.ER_ConsultationQ_Radiology_PAC_RIS_shedule_conduct_report_release">
+        <methods>
+          <include name="FailedScreenShot"/>
+          <include name="startBrowser"/>
+          <include name="TC_02_ER_ConsultationQ_Radiology_PAC_RIS_shedule_conduct_report_release"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- ClinicareTest.ER_ConsultationQ_Radiology_PAC_RIS_shedule_conduct_report_release -->
+    </classes>
+  </test> <!-- ER_ConsultationQ_Radiology_PAC_RIS_shedule_conduct_report_release(failed) -->
+</suite> <!-- Failed suite [ER_ConsultationQ_Radiology_PAC_RIS_shedule_conduct_report_release] -->

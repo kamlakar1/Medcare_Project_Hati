@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ER_Registration_Bay_Add_Details_Save]">
+  <parameter name="Uesrid" value="11092023"/>
+  <test thread-count="5" name="ER_Registration_Bay_Add_Details_Save(failed)">
+    <classes>
+      <class name="ClinicareTest.ER_Registration_Bay_Add_Details_Save">
+        <methods>
+          <include name="TC_02_ER_Registration_Bay_Add_Details_Save"/>
+          <include name="startBrowser"/>
+          <include name="afterTest"/>
+          <include name="FailedScreenShot"/>
+        </methods>
+      </class> <!-- ClinicareTest.ER_Registration_Bay_Add_Details_Save -->
+    </classes>
+  </test> <!-- ER_Registration_Bay_Add_Details_Save(failed) -->
+</suite> <!-- Failed suite [ER_Registration_Bay_Add_Details_Save] -->

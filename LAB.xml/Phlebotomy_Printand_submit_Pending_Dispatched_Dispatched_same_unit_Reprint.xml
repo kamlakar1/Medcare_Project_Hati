@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Phlebotomy_Printand_submit_Pending_Dispatched_Dispatched_same_unit_Reprint">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Phlebotomy_Printand_submit_Pending_Dispatched_Dispatched_same_unit_Reprint"> 		
+<classes>
+<class name="LabTest.Phlebotomy_Printand_submit_Pending_Dispatched_Dispatched_same_unit_Reprint">
+</class>
+</classes>
+</test>
+</suite>
+
+

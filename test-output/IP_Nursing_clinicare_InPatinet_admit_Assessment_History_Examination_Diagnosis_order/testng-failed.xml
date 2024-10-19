@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [IP_Nursing_clinicare_InPatinet_admit_Assessment_History_Examination_Diagnosis_order]">
+  <parameter name="Uesrid" value="11092023"/>
+  <test thread-count="5" name="IP_Nursing_clinicare_InPatinet_admit_Assessment_History_Examination_Diagnosis_order(failed)">
+    <classes>
+      <class name="ClinicareTest.IP_Nursing_clinicare_InPatinet_admit_Assessment_History_Examination_Diagnosis_order">
+        <methods>
+          <include name="FailedScreenShot"/>
+          <include name="TC_02_IP_Nursing_clinicare_InPatinet_admit_Assessment_History_Examination_Diagnosis_order"/>
+          <include name="startBrowser"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- ClinicareTest.IP_Nursing_clinicare_InPatinet_admit_Assessment_History_Examination_Diagnosis_order -->
+    </classes>
+  </test> <!-- IP_Nursing_clinicare_InPatinet_admit_Assessment_History_Examination_Diagnosis_order(failed) -->
+</suite> <!-- Failed suite [IP_Nursing_clinicare_InPatinet_admit_Assessment_History_Examination_Diagnosis_order] -->

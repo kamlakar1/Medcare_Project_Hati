@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Phlebotomy_Pending_Outsource_Outsourced_Upload_document_Received">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Phlebotomy_Pending_Outsource_Outsourced_Upload_document_Received"> 		
+<classes>
+<class name="LabTest.Phlebotomy_Pending_Outsource_Outsourced_Upload_document_Received">
+</class>
+</classes>
+</test>
+</suite>
+

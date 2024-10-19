@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Good_Return_Note_Against_Expiry_Save_view_details">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Good_Return_Note_Against_Expiry_Save_view_details"> 	
+<classes>
+<class name="Procurment_Test.Good_Return_Note_Against_Expiry_Save_submit_view_details">
+</class>
+</classes>
+</test>
+</suite>

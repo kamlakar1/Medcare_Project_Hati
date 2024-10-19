@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Result_Entry_select_order_Click_hold">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Result_Entry_select_order_Click_hold"> 		
+<classes>
+<class name="LabTest.Result_Entry_select_order_Click_hold">
+</class>
+</classes>
+</test>
+</suite>
+

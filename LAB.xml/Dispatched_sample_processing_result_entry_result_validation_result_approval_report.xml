@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Dispatched_sample_processing_result_entry_result_validation_result_approval_report">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Dispatched_sample_processing_result_entry_result_validation_result_approval_report"> 		
+<classes>
+<class name="LabTest.Dispatched_sample_processing_result_entry_result_validation_result_approval_report">
+</class>
+</classes>
+</test>
+</suite>
+

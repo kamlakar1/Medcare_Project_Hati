@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="IP_Re_Assisment_Add_History_Diagnosis_Examination_Order_Re_Assisment_Notes_Test">
+<parameter name="Uesrid" value="10571057"/>
+<test name="IP_Re_Assisment_Add_History_Diagnosis_Examination_Order_Re_Assisment_Notes_Test"> 		
+<parameter name="PatientMRN" value="HISCKLMRN241019329"/> 
+<classes>
+<class name="ClinicareTest2.IP_Re_Assisment_Add_History_Diagnosis_Examination_Order_Re_Assisment_Notes_Test">
+</class>
+</classes>
+</test>
+</suite>

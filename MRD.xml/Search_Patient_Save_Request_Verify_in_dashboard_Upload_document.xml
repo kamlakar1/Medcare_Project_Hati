@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Search_Patient_Save_Request_Verify_in_dashboard_Upload_document">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Search_Patient_Save_Request_Verify_in_dashboard_Upload_document"> 		
+<classes>
+<class name="MRDTest.Search_Patient_Save_Request_Verify_in_dashboard_Upload_document">
+</class>
+</classes>
+</test>
+</suite>
+

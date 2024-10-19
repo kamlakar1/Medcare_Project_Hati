@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="LAB_MODULE_01_TEST_SUITE">
+
+ <suite-files>
+	 
+	    <!--   Pathology    -->
+	    
+	     
+	      <suite-file path="Dispatch_screen_advanced_search.xml"/>
+	      <suite-file path="Enter_Abnormal_Result_Click_result_entry_Result_Validation_Modify_Save_Submit.xml"/>
+	      <suite-file path="Enter_Abnormal_Result_Save_Click_back_Verify_color_code_in_result_entry_Click_result_entry_Submit.xml"/>
+	      <suite-file path="Enter_Abnormal_Result_Save_Click_back_Verify_color_code_in_result_entry_Result_Validation_Save_Submit.xml"/>
+	      <suite-file path="Enter_Critical_Result_Click_result_entry_Submit_Result_Validation_Modify_Save_Submit.xml"/>
+	      <suite-file path="Enter_Critical_Result_Save_Click_back_Verify_color_code_Click_result_entry_Submit_Result_Validation_Save_submit.xml"/>
+	      <suite-file path="Enter_Critical_Result_Save_Click_back_Verify_color_code_in_result_entry_Click_result_entry_Submit.xml"/>
+	      <suite-file path="Enter_Normal_Result_Save_Click_back_Result_Validation_Modify_Save_Submit.xml"/>
+	      <suite-file path="Enter_Normal_Result_Save_Click_back_Verify_color_code_in_result_entry_Click_result_entry_Submit.xml"/>
+	      <suite-file path="Enter_Normal_Result_Save_Click_backVerify_color_code_Click_result_entry_Submit_Result_Validation_Save_Submit.xml"/>
+	      <suite-file path="Recollect_at_approval_Central_Receiving_Sample_Processing_Result_entry_Result_Validation_ResultApproval_Recollect.xml"/>
+	      <suite-file path="Recollect_Central_Receiving_Sample_Processing_Result_entry_Result_Validation_Result_Approval_Reports.xml"/>
+	      <suite-file path="Recollect_Phlebotomy_Central_Receiving_SampleProcessing_Result_ValidationResult_Approval_Report.xml"/>
+	      <suite-file path="Reject_order_print_submit_central_receiving_submit_sample_submit_result_entry_view_order.xml"/>
+	      <suite-file path="Restest_Save_Submit_Result_entry_Enter_new_result_Result_EntryResult_validation_Result_approval_Report.xml"/>
+	      <suite-file path="Result_approval_Select_order_Click_upload_document_Verify_previous_document_Upload_new_document_Submit.xml"/>
+	      <suite-file path="Result_Entry_Advanced_search.xml"/>
+	      <suite-file path="Result_Entry_Print_worklist_verify_report.xml"/>
+	      <suite-file path="Result_Entry_select_order_Click_hold.xml"/>
+	      <suite-file path="Result_validation_dashboard_Click_result_entry_Click_Retest_Enter_new_result_Save_Submit_Result_validation_approva_Report.xml"/>
+	      <suite-file path="Result_Validation_reject_Phlebotomy_Central_Receiving_Sample_Processing_Result_Entry_Result_Validation_Submit"/>
+          <suite-file path="Retest_Result_Entry_Dashboard_Result_Entry_Enter_new_result_Save_Submit_Result_validation_Result_approval_Report.xml"/>
+	      <suite-file path="Result_Validation_Advanced_search"/>
+	      
+	      <!-- Dispach and  outsoirce -->
+	      
+	      <suite-file path="Phlebotomy_Pending_Dispatched_Dispatched_Upload_document.xml"/>
+	      <suite-file path="Phlebotomy_Pending_Outsource_Outsourced_Upload_document_Received.xml"/>
+	      <suite-file path="Phlebotomy_Pending_Outsource_Reject_Current_order_Print_and_submit.xml"/>
+	      <suite-file path="Phlebotomy_Print_and_submit_Pending_Dispatched_Upload_document.xml"/>
+	      <suite-file path="Phlebotomy_Printand_submit_Pending_Dispatched_Reprint.xml"/>
+	      <suite-file path="Phlebotomy_Printand_submit_Pending_Outsource_Reprint_lab_form_barcode.xml"/>
+	      <suite-file path="Phlebotomy_Printand_submit_Pending_Outsource_Upload_document.xml"/>
+	    
+	      
+	      <!-- Microbilogy -->
+	      <suite-file path="Dispatched_sample_processing_result_entry_result_validation_result_approval_report.xml"/>
+	      <suite-file path="Click_print_and_submit_Result_Entry_View_orders.xml"/>
+	      <suite-file path="enter_media_observation_identification_Save_Submit_Result_Verification_Bulk_Entry.xml"/>
+	      <suite-file path="Enter_media_observation_identification_Save_Submit_Result_Verification_Hold.xml"/>
+	      <suite-file path="Enter_media_observation_identification_Save_Submit_Result_Verification_Result_Approval_Hold.xml"/>
+	      <suite-file path="Enter_media_observation_identification_Save_Submit_Result_Verification_Save_Provisional_Release_Print.xml"/>
+	     
+	      <suite-file path="Growth_Completed_Save_Result_Entry_enter_media_observation_identification_Provisional_Release_Print.xml"/>
+	      <suite-file path="Growth_Completed_Save_Result_Entry_enter_media_observation_identification_Save_Submit.xml"/>
+	      <suite-file path="Growth_Completed_Save_Result_Entry_enter_media_observation_identification_Save.xml"/>
+	      <suite-file path="Media_observation_identification_Save_Submit_Result_Verification_Print_worklist.xml"/>
+	      <suite-file path="media_observation_identification_Save_Submit_Result_VerificationSubmit.xml"/>
+	      
+	      <suite-file path="Microbiology_Media_Observation_Advanced_search .xml"/>
+	      <suite-file path="Microbiology_Result_Approval_Advanced_search.xml"/>
+	      <suite-file path="Microbiology_Result_Entry_Advanced_search.xml"/>
+	      <suite-file path="Microbiology_Result_Verification_Advanced_search.xml"/>
+	      <suite-file path="Outsource_Advanced_search.xml"/>
+	      <suite-file path="Pending_Allocation_Storage_Stock_Inhouse_Transfer_Pending_Received_Received_List.xml"/>
+	      <suite-file path="Phlebotomy_Central_Receiving_Sample_Processing_Media_Observation_Growth_Completed_Save.xml"/>
+	      <suite-file path="Phlebotomy_Central_Receiving_Sample_Processing_Media_Observation_No_growth_In_Progress_Save.xml"/>
+	      <suite-file path="Phlebotomy_Central_Receiving_Sample_Processing_Media_Observation_No_growth_Pending_Save.xml"/>
+
+	      <suite-file path="Phlebotomy_Printand_submit_Pending_Dispatched_Dispatched_same_unit_Cancel.xml"/>
+	      <suite-file path="Phlebotomy_Printand_submit_Pending_Dispatched_Dispatched_same_unit_Reprint.xml"/>
+	      <suite-file path="Result_Verification_Result_Approval_Print_worklist.xml"/>
+	      <suite-file path="Result_Verification_Result_Approval_Submit_Report.xml"/> 
+	      
+	     
+	     	
+        <!--        <suite-file path="testng-seleniumgrid-juiceshop.xml"/>-->
+        
+        
+        <!-- 
+      
+        -->
+       
+    </suite-files>
+    
+
+</suite> 

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Enter_Critical_Result_Click_result_entry_Submit_Result_Validation_Modify_Save_Submit">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Enter_Critical_Result_Click_result_entry_Submit_Result_Validation_Modify_Save_Submit"> 		
+<classes>
+<class name="LabTest.Enter_Critical_Result_Click_result_entry_Submit_Result_Validation_Modify_Save_Submit">
+</class>
+</classes>
+</test>
+</suite>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="OPPatient_SearchInClinicare_OPConsult_AdmitOrder_Save_LoginMedcare_ADTDashboard_Test">
+<parameter name="Uesrid" value="10571057"/>
+<test name="OPPatient_SearchInClinicare_OPConsult_AdmitOrder_Save_LoginMedcare_ADTDashboard_Test"> 		
+<parameter name="PatientMRN" value="HISCKLMRN241019294"/> 
+<classes>
+<class name="ClinicareTest2.OPPatient_SearchInClinicare_OPConsult_AdmitOrder_Save_LoginMedcare_ADTDashboard_Test">
+</class>
+</classes>
+</test>
+</suite>

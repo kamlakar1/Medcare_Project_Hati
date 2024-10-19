@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Click_print_and_submit_Result_Entry_View_orders">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Click_print_and_submit_Result_Entry_View_orders"> 		
+<classes>
+<class name="LabTest.Click_print_and_submit_Result_Entry_View_orders">
+</class>
+</classes>
+</test>
+</suite>
+

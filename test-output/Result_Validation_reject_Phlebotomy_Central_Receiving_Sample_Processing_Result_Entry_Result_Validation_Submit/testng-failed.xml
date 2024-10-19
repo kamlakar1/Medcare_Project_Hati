@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Result_Validation_reject_Phlebotomy_Central_Receiving_Sample_Processing_Result_Entry_Result_Validation_Submit]">
+  <parameter name="Uesrid" value="10021234"/>
+  <test thread-count="5" name="Result_Validation_reject_Phlebotomy_Central_Receiving_Sample_Processing_Result_Entry_Result_Validation_Submit(failed)">
+    <classes>
+      <class name="LabTest.Result_Validation_reject_Phlebotomy_Central_Receiving_Sample_Processing_Result_Entry_Result_Validation_Submit">
+        <methods>
+          <include name="TC_04_Result_Validation_reject_Phlebotomy_Central_Receiving_Sample_Processing_Result_Entry_Result_Validation_Submit"/>
+          <include name="afterTest"/>
+          <include name="startBrowser"/>
+          <include name="FailedScreenShot"/>
+        </methods>
+      </class> <!-- LabTest.Result_Validation_reject_Phlebotomy_Central_Receiving_Sample_Processing_Result_Entry_Result_Validation_Submit -->
+    </classes>
+  </test> <!-- Result_Validation_reject_Phlebotomy_Central_Receiving_Sample_Processing_Result_Entry_Result_Validation_Submit(failed) -->
+</suite> <!-- Failed suite [Result_Validation_reject_Phlebotomy_Central_Receiving_Sample_Processing_Result_Entry_Result_Validation_Submit] -->

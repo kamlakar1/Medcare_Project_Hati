@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Verify_stock_View_all_save">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Verify_stock_View_all_save"> 	
+<classes>
+<class name="Inventory.Verify_stock_View_all_save">
+</class>
+</classes>
+</test>
+</suite>

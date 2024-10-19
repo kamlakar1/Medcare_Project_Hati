@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="ER_Registration_Location_Add_Vitals_Save_Test">
+<parameter name="Uesrid" value="10571057"/>
+<test name="ER_Registration_Location_Add_Vitals_Save_Test"> 		
+<parameter name="PatientMRN" value="HISCKLMRN241019225"/> 
+<classes>
+<class name="ClinicareTest2.ER_Registration_Location_Add_Vitals_Save_Test">
+</class>
+</classes>
+</test>
+</suite>

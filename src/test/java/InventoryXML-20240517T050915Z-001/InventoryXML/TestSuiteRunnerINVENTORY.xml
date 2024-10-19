@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="MEDCARE_INVENTORY_MODULE_01_TEST_SUITE">
+
+ <suite-files>
+	 
+	 
+	 
+	       <!-- Kamlakar Test cases-->
+	       
+	       
+	       <!-- 
+	        <suite-file path="Against_item_Add_item_Save_approve_From_dashboard.xml"/>
+          <suite-file path="Against_item_Add_item_Save_Modify_Submit_View_details.xml"/>
+          <suite-file path="Against_item_near_by_expiry_Add_item_Save_submit_View_details.xml"/>
+          <suite-file path="Against_item_nearby_expiry_Add_item_Save_View_details.xml"/>
+          <suite-file path="Click_Add_Against_Issue_Add_item_Save_Cancel.xml"/>
+          <suite-file path="Issue_List_Advanced_search.xml"/>
+          <suite-file path="Material_Return_Acceptance_Approve_Full_View_Details_Print_Report.xml"/>
+          <suite-file path="Material_Return_Acceptance_Approve_Partially_View_Details_Print_Report.xml"/>
+          <suite-file path="Material_Return_Acceptance_Dashboard_Advanced_search.xml"/>
+          <suite-file path="Material_Return_Acceptance_Rejected_Full_view_Details_Print_Report.xml"/>
+          <suite-file path="Material_Return_Click_Add_Against_item_Add_item_Save_View_details.xml"/>
+          <suite-file path="Material_Return_Dashboard_advanced_search.xml"/>
+          <suite-file path="Material_return_Dashboard_Print_Report.xml"/>
+          <suite-file path="Material_Return_Save_and_submit_View_details.xml"/>
+          <suite-file path="partially_Material_Rejected_Acceptance_Details_Print_Report.xml"/>
+          <suite-file path="partially_Material_Rejected_Acceptance_Rejected_Full_Print_Report.xml"/>
+          <suite-file path="Pending_Indent_Against_Requesting_store_wise_Discontinue.xml"/>
+          <suite-file path="Stock_take_request_Add_new_save_Cancel.xml"/>
+          <suite-file path="Stock_take_request_Add_new_save_Print_Report.xml"/>
+          <suite-file path="Stock_take_request_Add_new_save_View_details.xml"/>
+          <suite-file path="Stock_Take_Request_search_record_print_report.xml"/>
+          <suite-file path="Store_Indent_Against_Item_Add_Item_Save_Approve_from_dashboard.xml"/>
+          <suite-file path="Store_Indent_Against_Item_Add_Item_Save_Cancel.xml"/>
+          <suite-file path="Store_Indent_Against_Item_Add_Item_Save_Modify_Submit_View_Details.xml"/>
+          <suite-file path="Store_Indent_Against_Item_Add_Item_Save_Print_report.xml"/>
+          <suite-file path="Store_Indent_Approval_Advanced_search.xml"/> 
+          
+          <suite-file path="Store_Indent_Approval_Approved_Partially_View_details.xml"/>
+          <suite-file path="Store_Indent_Approval_Discontinue_View_details.xml"/>
+          <suite-file path="Store_Indent_Approval_Print_Report_View_details.xml"/>
+          <suite-file path="Store_Indent_Approval_Rejected_Full_View_details.xml"/>
+          <suite-file path="Store_Indent_Dashboard_Advanced_search.xml"/>
+          <suite-file path="Store_Register_Print_report.xml"/>
+          <suite-file path="Upload_stock_download_modify_Upload_Add_item_save.xml"/>
+          <suite-file path="Verify_stock_View_all_save.xml"/>  -->
+	            
+	     <!--<suite-file path="Store_Indent_Approval_Approved_Full_View_details.xml"/> -->
+	 
+	     <!-- Manisha Test cases-->
+	     
+	
+	    <suite-file path="Against_Issue_Add_item_Save_and_submit_View_details.xml"/>
+	
+	     <suite-file path="OpeningBalanceTest.xml"/>
+	                 
+         <suite-file path="Batch_Change_Approval_Approve_PrintReport_Test.xml"/>
+         
+         <suite-file path="Batch_Change_Approval_Approve_View_details_Test.xml"/>
+         
+         <suite-file path="Batch_Change_Approval_Dashboard_Advanced_search_Test.xml"/>
+         
+         <suite-file path="Batch_change_dashboard_Advanced_Search_Test.xml"/>
+         
+         <suite-file path="BatchChange_AddItem_Save_Cancel_Test.xml"/>
+         
+         <suite-file path="BatchChange_AddItem_Save_Details_Test.xml"/>
+         
+         <suite-file path="BatchChange_AddItem_Save_modify_saveAndsubmit_Details_Test.xml"/>
+         
+         <suite-file path="BatchChange_AddItem_Save_PrintReport_Test.xml"/>
+         
+         <suite-file path="BatchChange_AddItem_saveAndsubmit_ApproveFromDashboard_details_Test.xml"/>
+         
+         <suite-file path="BatchChange_AddItem_saveAndsubmit_Details_Test.xml"/>
+         
+         <suite-file path="Disposal_Request_Dashboard_Advanced_Search_Test.xml"/>
+         
+         <suite-file path="Disposal_Worklist_Dashboard_Advanced_Search_Test.xml"/>
+         
+         <suite-file path="DisposalRequest_Against_Item_Save_ApproveFromDashboard_Details_Test.xml"/>
+         
+         <suite-file path="DisposalRequest_Against_Item_Save_Cancel_Test.xml"/>
+         
+         <suite-file path="DisposalRequest_Against_Item_Save_Details_Test.xml"/>
+         
+         <suite-file path="DisposalRequest_Against_Item_save_Modify_SaveAndSubmit_details_Test.xml"/>
+         
+         <suite-file path="DisposalRequest_Against_Item_Save_Print_Report_Test.xml"/>
+         
+         <suite-file path="DisposalRequest_Against_Item_SaveAndSubmit_Details_Test.xml"/>
+         
+         <suite-file path="DisposalRequestApproval_Approved_Full_Print_Report_Test.xml"/>
+         
+         <suite-file path="DisposalRequestApproval_Approved_Partially_PrintReport_Test.xml"/>
+         
+         <suite-file path="DisposalRequestApproval_dashboard_Advanced_Search_Test.xml"/>
+         
+         <suite-file path="DisposalWorklist_Disposed_Method_Burn_Save_Test.xml"/>
+         
+         <suite-file path="DisposalWorklist_Disposed_Method_Dustbin_Save_Print_Test.xml"/>
+         
+         <suite-file path="DisposalWorklist_Disposed_Method_Dustbin_Save_Test.xml"/>
+         
+         <suite-file path="Item_Barcode_Against_GRN_Print_barcode_Test.xml"/>
+         
+         <suite-file path="Item_Barcode_Against_Item_Print_barcode_Test.xml"/>
+         
+         <suite-file path="Material_Consumption_Add_AddItem_Save_details_Test.xml"/>
+         
+         <suite-file path="Material_Consumption_Add_Item_SaveAndsubmit_details_Test.xml"/>
+         
+         <suite-file path="Material_Consumption_Add_Item_SaveAndsubmit_Print_Test.xml"/>
+         
+         <suite-file path="Material_Consumption_AddItem_Save_ApproveFromDashboard_details_Test.xml"/>
+         
+         <suite-file path="Material_Consumption_AddItem_Save_Cancel_Test.xml"/>
+         
+         <suite-file path="Material_Consumption_AddItem_Save_Modify_SaveAndSubmit_Details_Test.xml"/>
+         
+         <suite-file path="Material_Consumption_Approval_dashboard_advanced_search_Test.xml"/>
+         
+         <suite-file path="Material_Consumption_Approvall_approved_partially_details_Test.xml"/>
+         
+         <suite-file path="Material_Consumption_Approvall_approvedFull_Details_Test.xml"/>
+         
+         <suite-file path="Material_Consumption_Approvall_PrintReport_Test.xml"/>
+         
+         <suite-file path="Material_Consumption_Dashboard_Advanced_Search_Test.xml"/>
+         
+         <suite-file path="Opening_Balance_Add_item_Enter_item_details_Save_Approve_from_Dashboard_Test.xml"/>
+         
+         <suite-file path="Opening_Balance_Add_item_Enter_item_details_Save_Cancel_Checking_ValidationMSG_Test.xml"/>
+         
+         <suite-file path="Opening_Balance_Add_item_Enter_item_details_Save_Cancel_Test.xml"/>
+         
+         <suite-file path="Opening_Balance_Add_item_Enter_item_details_Save_Print_Report_Test.xml"/>
+         
+         <suite-file path="Opening_Balance_Add_item_Enter_item_details_Save_submit_View_Details_Test.xml"/>
+         
+         <suite-file path="Opening_Balance_Add_item_Save_Modify_Save_View_Details_Test.xml"/>
+         
+         <suite-file path="Opening_Balance_Dashboard_Advanced_Search_Test.xml"/>
+         
+         <suite-file path="Stk_Adjst_AddItem_Stk_Adjst_Type_Add_Save_Approvefromdashboard_details_Test.xml"/>
+         
+         <suite-file path="Stk_Adjust_Add_Item_Adjust_Type_Add_SaveAndSubmit_ApproveFull_Store_Register_Test.xml"/>
+         
+         <suite-file path="Stk_Adjust_Add_Item_Adjustment_Type_Add_Save_Modify_SaveAndSubmit_Details_Test.xml"/>
+         
+         <suite-file path="Stk_Adjust_WriteOff_SaveAndSubmit_Stk_Adjust_Approval_ApproveFull_Print_Test.xml"/>
+         
+         <suite-file path="Stk_Adjust_WriteOff_SaveAndSubmit_Stock_Adjustment_Approval_ApproveFull_Details_Test.xml"/>
+         
+<!--          <suite-file path="Stk_Adjust_WriteOff_SaveAndSubmit_Stock_Adjustment_Approval_ApprovePartially_Details_Test.xml"/>-->
+         
+         <suite-file path="Stock_Adjustment_Add_Item_Stock_Adjustment_Adjustment_Type_Addition_Save_Details_Test.xml"/>
+         
+         <suite-file path="Stock_Adjustment_Add_Item_Stock_Adjustment_Adjustment_Type_Minus_Save_Details_Test.xml"/>
+         
+         <suite-file path="Stock_Adjustment_Add_Item_Stock_Adjustment_Save_And_Submit_view_details_Test.xml"/>
+         
+         <suite-file path="Stock_Adjustment_Add_Item_Stock_Adjustment_SaveAndSubmit_Print_Report_Test.xml"/>
+         
+         <suite-file path="Stock_Adjustment_Add_Item_Write_Off_Save_And_Submit_View_Details_Test.xml"/>
+         
+         <suite-file path="Stock_Adjustment_Add_Item_Write_Off_Save_Approve_from_dashboard_View_details_Test.xml"/>
+         
+         <suite-file path="Stock_Adjustment_Add_Item_Write_Off_Save_Cancel_Test.xml"/>
+         
+         <suite-file path="Stock_Adjustment_Add_Item_Write_Off_Save_Modify_save_and_submit_View_Details_Test.xml"/>
+         
+         <suite-file path="Stock_Adjustment_Add_Item_Write_Off_Save_View_Details_Test.xml"/>
+         
+         <suite-file path="Stock_Adjustment_Add_Item_Write_Off_SaveAndSubmit_Print_Report_Test.xml"/>
+         
+         <suite-file path="Stock_Adjustment_Approval_Dashboard_Advanced_Search_Test.xml"/>
+         
+         <suite-file path="Stock_Adjustment_Dashboard_Advanced_Search_Test.xml"/>
+         
+         <suite-file path="Stock_Take_Request_Dashboard_Advanced_Search_Test.xml"/>
+         
+         <suite-file path="Storage_Allocation_Pending_for_Allocation_Save_View_allocated_Item_test.xml"/>
+         
+         <suite-file path="Store_stock_Batch_Wise_Advanced_search_Test.xml"/>
+         
+          <suite-file path="Store_stock_Batch_Wise_Print_Report_Test.xml"/>
+         
+         <suite-file path="Store_stock_Item_Wise_Advanced_search_Test.xml"/>
+         
+         <suite-file path="Store_stock_Item_Wise_Print_Report_Test.xml"/>
+         
+         
+
+	
+	    
+                      
+        
+        <!--        <suite-file path="testng-seleniumgrid-juiceshop.xml"/>-->
+        
+        
+           
+
+    </suite-files>
+    
+
+</suite> 

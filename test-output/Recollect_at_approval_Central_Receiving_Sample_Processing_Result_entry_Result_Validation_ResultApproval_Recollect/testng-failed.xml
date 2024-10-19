@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Recollect_at_approval_Central_Receiving_Sample_Processing_Result_entry_Result_Validation_ResultApproval_Recollect]">
+  <parameter name="Uesrid" value="10021234"/>
+  <test thread-count="5" name="Recollect_at_approval_Central_Receiving_Sample_Processing_Result_entry_Result_Validation_ResultApproval_Recollect(failed)">
+    <classes>
+      <class name="LabTest.Recollect_at_approval_Central_Receiving_Sample_Processing_Result_entry_Result_Validation_ResultApproval_Recollect">
+        <methods>
+          <include name="FailedScreenShot"/>
+          <include name="afterTest"/>
+          <include name="TC_04_Recollect_at_approval_Central_Receiving_Sample_Processing_Result_entry_Result_Validation_ResultApproval_Recollect"/>
+          <include name="startBrowser"/>
+        </methods>
+      </class> <!-- LabTest.Recollect_at_approval_Central_Receiving_Sample_Processing_Result_entry_Result_Validation_ResultApproval_Recollect -->
+    </classes>
+  </test> <!-- Recollect_at_approval_Central_Receiving_Sample_Processing_Result_entry_Result_Validation_ResultApproval_Recollect(failed) -->
+</suite> <!-- Failed suite [Recollect_at_approval_Central_Receiving_Sample_Processing_Result_entry_Result_Validation_ResultApproval_Recollect] -->

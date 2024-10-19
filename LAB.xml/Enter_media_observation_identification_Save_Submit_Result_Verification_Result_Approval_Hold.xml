@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Enter_media_observation_identification_Save_Submit_Result_Verification_Result_Approval_Hold">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Enter_media_observation_identification_Save_Submit_Result_Verification_Result_Approval_Hold"> 		
+<classes>
+<class name="LabTest.Enter_media_observation_identification_Save_Submit_Result_Verification_Result_Approval_Hold">
+</class>
+</classes>
+</test>
+</suite>
+

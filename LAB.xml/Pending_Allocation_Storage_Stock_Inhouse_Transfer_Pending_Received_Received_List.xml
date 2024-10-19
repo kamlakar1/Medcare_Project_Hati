@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Pending_Allocation_Storage_Stock_Inhouse_Transfer_Pending_Received_Received_List">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Pending_Allocation_Storage_Stock_Inhouse_Transfer_Pending_Received_Received_List"> 		
+<classes>
+<class name="LabTest.Pending_Allocation_Storage_Stock_Inhouse_Transfer_Pending_Received_Received_List">
+</class>
+</classes>
+</test>
+</suite>
+

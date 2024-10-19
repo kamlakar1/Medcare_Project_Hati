@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Contract_Add_Test">
+<parameter name="Uesrid" value="10931994"/>
+<test name="Contract_Add_Test">
+
+<parameter name="DescriptionPar" value="ICICI"/>
+
+<classes>
+<class name="BillingTest.Contract_Advance_Search_Test">
+</class>
+</classes>
+</test>
+</suite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Allocated_Unallocated_Transferred_File_Acceptance_Back_to_MRD_Receive_MRD_Receive">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Allocated_Unallocated_Transferred_File_Acceptance_Back_to_MRD_Receive_MRD_Receive"> 
+<parameter name="Secondday" value="HISCKLMRN24411729"/>		
+<classes>
+<class name="MRDTest.Allocated_Unallocated_Transferred_File_Acceptance_Back_to_MRD_Receive_MRD_Receive">
+</class>
+</classes>
+</test>
+</suite>
+

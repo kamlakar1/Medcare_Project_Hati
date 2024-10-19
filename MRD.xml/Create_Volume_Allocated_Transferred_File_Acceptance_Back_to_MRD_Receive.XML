@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Create_Volume_Allocated_Transferred_File_Acceptance_Back_to_MRD_Receive">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Create_Volume_Allocated_Transferred_File_Acceptance_Back_to_MRD_Receive">
+<parameter name="SecondDayMRN" value="HISCKLMRN24311595"/>	 		
+<classes>
+<class name="MRDTest.Create_Volume_Allocated_Transferred_File_Acceptance_Back_to_MRD_Receive">
+</class>
+</classes>
+</test>
+</suite>
+

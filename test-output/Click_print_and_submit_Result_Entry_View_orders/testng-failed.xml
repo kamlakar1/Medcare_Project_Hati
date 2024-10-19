@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Click_print_and_submit_Result_Entry_View_orders]">
+  <parameter name="Uesrid" value="10021234"/>
+  <test thread-count="5" name="Click_print_and_submit_Result_Entry_View_orders(failed)">
+    <classes>
+      <class name="LabTest.Click_print_and_submit_Result_Entry_View_orders">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="afterTest"/>
+          <include name="TC_04_Click_print_and_submit_Result_Entry_View_orders"/>
+          <include name="FailedScreenShot"/>
+        </methods>
+      </class> <!-- LabTest.Click_print_and_submit_Result_Entry_View_orders -->
+    </classes>
+  </test> <!-- Click_print_and_submit_Result_Entry_View_orders(failed) -->
+</suite> <!-- Failed suite [Click_print_and_submit_Result_Entry_View_orders] -->

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="MEDCARE_MRD_MODULE_TEST_SUITE">
+
+ <suite-files>
+	    
+	      <suite-file path="Allocated_Transferred_File Acceptance_Transfer_to_other_department.xml"/>
+	      <suite-file path="Allocated_Unallocated_Transferred_File_Acceptance_Back_to_MRD_Receive_MRD_Receive.xml"/>
+	      <suite-file path="Create_Volume_Allocated_Transferred_File_Acceptance_Back_to_MRD_Receive.XML"/>
+	      <suite-file path="Department_Request_Save_MRD_Department_Request_Allocate_Transferred_File_Acceptance_MRD_Receive.xml"/>
+	      <suite-file path="Department_Request_Save_MRD_Request_Department_Request_Cancel.xml"/>
+	      <suite-file path="Diagnosis_Coding_OPD_Enter_ICD_Details_Save.xml"/>   
+	      <suite-file path="Dispatch_screen_advanced_search.xml"/>
+	       <suite-file path="Dispatch_screen_advanced_search2.xml"/>
+	      <suite-file path="Medical_Board_Request_Advanced_search.xml"/>
+	      <suite-file path="Medical_Board_Request_Click_Add_Search_patient_Add_details_Save_Modify_Save.xml"/>
+	      <suite-file path="Medical_Board_Request_Click_Add_Search_patient_Add_details_Save_Print.xml"/>
+	      <suite-file path="Medical_Board_Request_Click_Add_Search_patient_Add_details_Save_View_details.xml"/>
+	      <suite-file path="Medical_Board_Request_Click_Add_Search_patient_Add_details_Save.xml"/>        
+	      <suite-file path="Medical_Board_Request_Click_Details_Dispatch_View_report.xml"/>   
+	       <suite-file path="Medical_Board_Request_Worklist_Advanced_search.xml"/>
+	      <suite-file path="Medical_Board_Request_Worklist_Edit_Save_Modify_Submit.xml"/>
+	      <suite-file path="Medical_Board_Request_Worklist_Edit_Submit_Print_View_details.xml"/>
+	      <suite-file path="Medical_Report_Request_Dashboard_Advanced_search.xml"/>
+	      <suite-file path="Medical_Report_Request_Workflist_Add_report_details_Verify_visit_details_Save_Modify_Submit.xml"/>
+	      <suite-file path="Medical_Report_Request_Workflist_Add_report_details_Verify_visit_details_Submit.xml"/>        
+	      <suite-file path="Medical_Report_Request_Worklist_Dashboard_Advanced_search.xml"/>   
+	       <suite-file path="Modify_Submit_Medical_Board_Request_Click_Details_Dispatch_View_report.xml"/>
+	      <suite-file path="MRD_File_Requested_Add_Volume.xml"/>
+	      <suite-file path="MRD_File_Requested_Cancel.xml"/>
+	      <suite-file path="MRD_File_Requested_Volume_Master_Search_patient_Add_volume.xml"/>
+	      <suite-file path="OP_Existing_IP_Admisison_MRN_File_Requested_Allocated_Transferred_Transferred_to_other_department.XML"/>
+	      <suite-file path="OP_Existing_IP_Admisison_MRN_File_Requested_Volume_Master_Search_patient_Add_volume.XML"/>        
+	      <suite-file path="OP_Existing_MRN_File_Requested_Allocated_Transferred_File_Acceptance_Back_to_MRD_Receive_MRD_Receive.xml"/>   
+	       <suite-file path="OP_Existing_MRN_File_Requested_Allocated_Unallocated_Transferred_File_Acceptance_Back_to_MRD_Receive_MRD_Receive.xml"/>
+	      <suite-file path="Search_patient_Add_details_Save_Medical_Board_Request_Worklist_Edit_Save.xml"/>
+	      <suite-file path="Search_patient_Add_details_Save_Medical_Board_Request_Worklist_Edit_Submit_Print.xml"/>
+	      <suite-file path="Search_patient_Add_details_Save_Medical_Board_Request_Worklist_Edit_Submit.xml"/>
+	      <suite-file path="Search_Patient_Save_Request_Verify_in_dashboard_Modify_Save.xml"/>
+	      <suite-file path="Search_Patient_Save_Request_Verify_in_dashboard_Print.xml"/>        
+	      <suite-file path="Search_Patient_Save_Request_Verify_in_dashboard_Upload_document.xml"/>   
+	      <suite-file path="Search_Patient_Save_Request_Verify_in_dashboard_View_Details.xml"/>
+	      <suite-file path="View_Details_Medical_Report_Request_Workflist_Add_report_details_Verify_visit_details_Save.xml"/>
+	      <suite-file path="Workflist_Edit_Verify_visit_details_Save_Modify_Submit_Medical_Report_Request_Clic_Details_Dispatch_ViewReport.xml"/>
+	     
+	     
+	                     
+                       
+        
+        
+        <!--        <suite-file path="testng-seleniumgrid-juiceshop.xml"/>-->
+        
+        
+        <!-- 
+      
+        -->
+        
+
+    </suite-files>
+    
+
+</suite> 

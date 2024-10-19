@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Store_Indent_Dashboard_Advanced_search">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Store_Indent_Dashboard_Advanced_search"> 	
+<parameter name="ItemCode" value="CON00004"/>
+<parameter name="ItemName" value="Locking Compression Plate 2/2.4/2.7mm"/>
+
+<classes>
+<class name="Inventory.Store_Indent_Dashboard_Advanced_search">
+</class>
+</classes>
+</test>
+</suite>

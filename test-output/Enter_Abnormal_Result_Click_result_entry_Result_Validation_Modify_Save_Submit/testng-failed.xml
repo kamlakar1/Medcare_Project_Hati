@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Enter_Abnormal_Result_Click_result_entry_Result_Validation_Modify_Save_Submit]">
+  <parameter name="Uesrid" value="10021234"/>
+  <test thread-count="5" name="Enter_Abnormal_Result_Click_result_entry_Result_Validation_Modify_Save_Submit(failed)">
+    <classes>
+      <class name="LabTest.Enter_Abnormal_Result_Click_result_entry_Result_Validation_Modify_Save_Submit">
+        <methods>
+          <include name="TC_04_Enter_Abnormal_Result_Click_result_entry_Result_Validation_Modify_Save_Submit"/>
+          <include name="FailedScreenShot"/>
+          <include name="afterTest"/>
+          <include name="startBrowser"/>
+        </methods>
+      </class> <!-- LabTest.Enter_Abnormal_Result_Click_result_entry_Result_Validation_Modify_Save_Submit -->
+    </classes>
+  </test> <!-- Enter_Abnormal_Result_Click_result_entry_Result_Validation_Modify_Save_Submit(failed) -->
+</suite> <!-- Failed suite [Enter_Abnormal_Result_Click_result_entry_Result_Validation_Modify_Save_Submit] -->

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Bill_Estimation_Advance_Search_Test">
+<parameter name="Uesrid" value="10931994"/>
+<test name="Bill_Estimation_Advance_Search_Test">
+<parameter name="MRNPar" value="HISCKLMRN231112064"/>
+<parameter name="NamePar" value="GHAYAL"/>
+<parameter name="EstimationNoPar" value="9879997"/>
+
+<classes>
+<class name="BillingTest.Bill_Estimation_Advance_Search_Test">
+</class>
+</classes>
+</test>
+</suite>

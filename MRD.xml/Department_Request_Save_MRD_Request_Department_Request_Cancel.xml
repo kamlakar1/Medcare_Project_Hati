@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Department_Request_Save_MRD_Request_Department_Request_Cancel">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Department_Request_Save_MRD_Request_Department_Request_Cancel"> 		
+<classes>
+<class name="MRDTest.Department_Request_Save_MRD_Request_Department_Request_Cancel">
+</class>
+</classes>
+</test>
+</suite>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Dispatch_screen_advanced_search (0)]">
+  <parameter name="Uesrid" value="10021234"/>
+  <test thread-count="5" name="Dispatch_screen_advanced_search(failed)">
+    <classes>
+      <class name="LabTest.Result_Verification_Result_Approval_Print_worklist">
+        <methods>
+          <include name="afterTest"/>
+          <include name="startBrowser"/>
+          <include name="TC_02_Result_Verification_Result_Approval_Print_worklist"/>
+          <include name="FailedScreenShot"/>
+        </methods>
+      </class> <!-- LabTest.Result_Verification_Result_Approval_Print_worklist -->
+    </classes>
+  </test> <!-- Dispatch_screen_advanced_search(failed) -->
+</suite> <!-- Failed suite [Dispatch_screen_advanced_search (0)] -->

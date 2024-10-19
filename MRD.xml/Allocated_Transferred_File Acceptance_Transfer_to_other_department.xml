@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Allocated_Transferred_File Acceptance_Transfer_to_other_department.xml">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Allocated_Transferred_File Acceptance_Transfer_to_other_department.xml"> 		
+<classes>
+<class name="MRDTest.Allocated_Transferred_File_Acceptance_Transfer_to_other_department">
+</class>
+</classes>
+</test>
+</suite>
+

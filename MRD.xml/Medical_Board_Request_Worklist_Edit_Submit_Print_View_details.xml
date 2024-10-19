@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Medical_Board_Request_Worklist_Edit_Submit_Print_View_details">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Medical_Board_Request_Worklist_Edit_Submit_Print_View_details"> 		
+<classes>
+<class name="MRDTest.Medical_Board_Request_Worklist_Edit_Submit_Print_View_details">
+</class>
+</classes>
+</test>
+</suite>
+

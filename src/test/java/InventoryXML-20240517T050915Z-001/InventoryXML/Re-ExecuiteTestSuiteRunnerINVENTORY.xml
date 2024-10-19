@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="MEDCARE_INVENTORY_MODULE_01_TEST_SUITE">
+
+ <suite-files>
+	 
+	     <suite-file path="OpeningBalanceTest.xml"/>
+	                 
+         <suite-file path="Batch_Change_Approval_Approve_PrintReport_Test.xml"/>
+         
+         <suite-file path="Batch_Change_Approval_Approve_View_details_Test.xml"/>
+         
+         <suite-file path="Batch_Change_Approval_Dashboard_Advanced_search_Test.xml"/>
+             
+         <suite-file path="BatchChange_AddItem_Save_PrintReport_Test.xml"/>
+         
+         <suite-file path="BatchChange_AddItem_saveAndsubmit_ApproveFromDashboard_details_Test.xml"/>
+              
+         <suite-file path="Disposal_Worklist_Dashboard_Advanced_Search_Test.xml"/>
+         
+         <suite-file path="DisposalRequest_Against_Item_Save_Details_Test.xml"/>
+         
+         <suite-file path="DisposalRequest_Against_Item_save_Modify_SaveAndSubmit_details_Test.xml"/>
+         
+         <suite-file path="DisposalRequest_Against_Item_Save_Print_Report_Test.xml"/>
+         
+         <suite-file path="DisposalRequest_Against_Item_SaveAndSubmit_Details_Test.xml"/>
+          
+         <suite-file path="DisposalRequest_Against_Expired_save_Modify_SaveAndSubmit_details_Test.xml"/>
+	                 
+         <suite-file path="DisposalRequest_Against_Expiry_Save_Cancel_Test.xml"/>
+         
+         <suite-file path="DisposalRequest_Against_Expiry_Save_Details_Test.xml"/>
+         
+         <suite-file path="DisposalRequest_Against_Expiry_Save_Print_Report_Test.xml"/>
+             
+         <suite-file path="DisposalRequest_Against_Expiry_SaveAndSubmit_Details_Test.xml"/>
+           
+         <suite-file path="DisposalRequestApproval_Approved_Full_Print_Report_Test.xml"/>
+         
+         <suite-file path="DisposalRequestApproval_Approved_Partially_PrintReport_Test.xml"/>
+               
+         <suite-file path="DisposalWorklist_Disposed_Method_Burn_Save_Test.xml"/>
+         
+         <suite-file path="DisposalWorklist_Disposed_Method_Dustbin_Save_Print_Test.xml"/>
+        
+         <suite-file path="Item_Barcode_Against_Item_Print_barcode_Test.xml"/>
+         
+         <suite-file path="Material_Consumption_Add_AddItem_Save_details_Test.xml"/>
+               
+         <suite-file path="Material_Consumption_Add_Item_SaveAndsubmit_Print_Test.xml"/>
+         
+         <suite-file path="Material_Consumption_AddItem_Save_ApproveFromDashboard_details_Test.xml"/>
+         
+         <suite-file path="Material_Consumption_AddItem_Save_Cancel_Test.xml"/>
+         
+         <suite-file path="Material_Consumption_AddItem_Save_Modify_SaveAndSubmit_Details_Test.xml"/>
+            
+       <!--  <suite-file path="Material_Consumption_Approvall_approved_partially_details_Test.xml"/>-->
+         
+         <suite-file path="Material_Consumption_Approvall_approvedFull_Details_Test.xml"/>
+         
+         <suite-file path="Material_Consumption_Approvall_PrintReport_Test.xml"/>
+              
+         <suite-file path="Opening_Balance_Add_item_Enter_item_details_Save_Cancel_Test.xml"/>
+              
+         <suite-file path="Stk_Adjust_WriteOff_SaveAndSubmit_Stock_Adjustment_Approval_ApproveFull_Details_Test.xml"/>
+         
+        <!--  <suite-file path="Stk_Adjust_WriteOff_SaveAndSubmit_Stock_Adjustment_Approval_ApprovePartially_Details_Test.xml"/>-->
+         
+         <suite-file path="Stock_Adjustment_Add_Item_Stock_Adjustment_Adjustment_Type_Addition_Save_Details_Test.xml"/>
+                 
+         <suite-file path="Stock_Adjustment_Add_Item_Stock_Adjustment_SaveAndSubmit_Print_Report_Test.xml"/>
+         
+          <suite-file path="Stock_Adjustment_Add_Item_Write_Off_Save_Cancel_Test.xml"/>
+             
+         <suite-file path="Store_stock_Batch_Wise_Advanced_search_Test.xml"/>
+         
+          <suite-file path="Store_stock_Batch_Wise_Print_Report_Test.xml"/>
+         
+       
+        
+        <!--        <suite-file path="testng-seleniumgrid-juiceshop.xml"/>-->
+        
+        
+           
+
+    </suite-files>
+    
+
+</suite> 

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Enter_Normal_Result_Save_Click_back_Result_Validation_Modify_Save_Submit">
+<parameter name="Uesrid" value="10021234"/>
+<test name="Enter_Normal_Result_Save_Click_back_Result_Validation_Modify_Save_Submit"> 		
+<classes>
+<class name="LabTest.Enter_Normal_Result_Save_Click_back_Result_Validation_Modify_Save_Submit">
+</class>
+</classes>
+</test>
+</suite>
+
